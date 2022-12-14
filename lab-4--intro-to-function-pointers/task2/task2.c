@@ -1,3 +1,5 @@
+// help from shane and youtube 
+
 #include <stdio.h>
 #include <stdlib.h>
 
