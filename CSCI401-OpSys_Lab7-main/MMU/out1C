@@ -1,0 +1,3 @@
+PARTITION_SIZE = 100000
+usage: ./mmu <input file> -{F | B | W }  
+(F=FIFO | B=BESTFIT | W-WORSTFIT)
