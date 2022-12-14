@@ -1,4 +1,4 @@
-//worked with amira and mary
+//worked with asaad martin
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
