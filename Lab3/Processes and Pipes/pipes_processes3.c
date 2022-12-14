@@ -1,3 +1,5 @@
+//recieved help fromshane oliver 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
